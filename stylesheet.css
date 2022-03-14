@@ -1,0 +1,127 @@
+
+/* You should edit the content below to fit your website */
+* {
+	font-family: Verdana, Geneva, sans-serif; 
+	color: #f8cf3a;
+	text-align: center;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #fbffd7;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+article.sideBySide {
+	padding: 10px;
+	background-color: #feecf1;
+	margin: 10px;
+	width: 420px;
+	float: left;
+	
+}
+
+ul {
+	list-style-position: inside;
+	text-align: center;
+	display: inline-block;
+}
+
+dt {
+	color: #99621e;
+	text-align: left;
+}
+
+dd {
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+nav {
+	margin-top: 20px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+a:hover {
+  color: #99621e;
+}
+
+a.links:hover {
+  color: #f8cf3a;
+}
+
+strong {
+	  color: #99621e;
+}
+
+#content {
+	overflow: auto;
+	height: 100%;
+
+}
+
+h1.pageHeader {
+	font-weight: bold;
+	color: #99621e;
+}
+
+h3 {
+	font-weight: normal;
+	color: #99621e;
+}
+
+.centerImage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 5px solid orange;
+}
+
+.centerImage2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 67.3%;
+	border: 5px solid pink;
+}
+
+.navCurrentPage {
+	font-weight: normal;
+}
+
+.imageCredit {
+	font-size: 10px;
+	color: #99621e;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;
+	width: 50%;
+}
+
+.variousLinks {
+	background-color: #fdd8e2;
+}
+
+main {
+	padding: 10px;
+	background-color: #feecf1;
+}
+
+.links {
+  color: #99621e;
+}
+
+
+
+
+
